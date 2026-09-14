@@ -31,28 +31,6 @@ flowchart TB
     CLOUD -- "manifests + provider leases" --> DESKTOP
 ```
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                        SevenAI Cloud                         │
-│                                                              │
-│         Auth  ·  Catalogue  ·  Versions  ·  Sessions         │
-└──────────────────────────────┬───────────────────────────────┘
-                               │
-                               │  manifests + provider leases
-                               ▼
-┌──────────────────────────────┴───────────────────────────────┐
-│                       SevenAI Desktop                        │
-│                                                              │
-│  Wake Word ──▶ STT ──▶ Context ──▶ LLM ──▶ TTS               │
-│                           ▲                                  │
-│   Presentation Knowledge ─┤                                  │
-│   Current Slide ──────────┤                                  │
-│   Meeting Memory ─────────┘                                  │
-│                                                              │
-│  Local presentation cache ──▶ deterministic playback         │
-└──────────────────────────────────────────────────────────────┘
-```
-
 ## Detailed view
 
 ```mermaid

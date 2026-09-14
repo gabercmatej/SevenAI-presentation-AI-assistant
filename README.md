@@ -28,30 +28,6 @@ flowchart TB
     CLOUD -- "manifests + provider leases" --> DESKTOP
 ```
 
-The same overview as plain text:
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                        SevenAI Cloud                         │
-│                                                              │
-│         Auth  ·  Catalogue  ·  Versions  ·  Sessions         │
-└──────────────────────────────┬───────────────────────────────┘
-                               │
-                               │  manifests + provider leases
-                               ▼
-┌──────────────────────────────┴───────────────────────────────┐
-│                       SevenAI Desktop                        │
-│                                                              │
-│  Wake Word ──▶ STT ──▶ Context ──▶ LLM ──▶ TTS               │
-│                           ▲                                  │
-│   Presentation Knowledge ─┤                                  │
-│   Current Slide ──────────┤                                  │
-│   Meeting Memory ─────────┘                                  │
-│                                                              │
-│  Local presentation cache ──▶ deterministic playback         │
-└──────────────────────────────────────────────────────────────┘
-```
-
 The desktop app plays the deck and runs the voice loop locally. The cloud handles identity, the team's presentation catalogue, immutable presentation versions and synced meeting records. It never proxies a live question. The full breakdown, including object storage, AI providers and Session sync, is in [docs/architecture.md](docs/architecture.md).
 
 ## Overview
@@ -179,7 +155,7 @@ All screenshots are **synthetic demo content** built around the fictional compan
 |---|---|
 | ![Presentation catalogue](assets/screenshots/presentations.png) <br> **Presentation catalogue:** team decks with preview and meeting-recording toggle | ![Presentation mode](assets/screenshots/presentation-mode.png) <br> **Presentation mode:** fullscreen deck with the assistant in the corner |
 | ![Presentation settings](assets/screenshots/settings.png) <br> **Presentation settings:** greeting and scripted Q&A | ![Sessions](assets/screenshots/sessions.png) <br> **Sessions:** meeting record and structured summary |
-| ![Assistant states](assets/screenshots/mascot-states.png) <br> **Assistant states:** the character reflects idle, listening, thinking and speaking | |
+| ![Assistant states](assets/screenshots/assistant-states.png) <br> **Assistant states:** the SevenAI character while idle, listening, thinking and speaking | |
 
 ## Security
 
