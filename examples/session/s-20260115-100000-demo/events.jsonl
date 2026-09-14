@@ -1,0 +1,19 @@
+{"t":"2026-01-15T09:00:00.000Z","clock":"10:00:00","ms":0,"type":"session_started","slide":null}
+{"t":"2026-01-15T09:00:00.000Z","clock":"10:00:00","ms":0,"type":"recording_started","slide":null}
+{"t":"2026-01-15T09:00:02.000Z","clock":"10:00:02","ms":2000,"type":"slide_change","slide":1}
+{"t":"2026-01-15T09:01:00.000Z","clock":"10:01:00","ms":60000,"type":"slide_change","slide":2}
+{"t":"2026-01-15T09:05:00.000Z","clock":"10:05:00","ms":300000,"type":"slide_change","slide":3}
+{"t":"2026-01-15T09:06:40.500Z","clock":"10:06:40","ms":400500,"type":"assistant_question","slide":3}
+{"t":"2026-01-15T09:06:42.000Z","clock":"10:06:42","ms":402000,"type":"assistant_answer","slide":3}
+{"t":"2026-01-15T09:08:20.000Z","clock":"10:08:20","ms":500000,"type":"slide_change","slide":4}
+{"t":"2026-01-15T09:11:40.500Z","clock":"10:11:40","ms":700500,"type":"navigation_command","slide":4,"detail":"topic -> slide 5"}
+{"t":"2026-01-15T09:11:41.000Z","clock":"10:11:41","ms":701000,"type":"slide_change","slide":5}
+{"t":"2026-01-15T09:15:00.000Z","clock":"10:15:00","ms":900000,"type":"transcription_gap","slide":5,"detail":"network"}
+{"t":"2026-01-15T09:16:00.000Z","clock":"10:16:00","ms":960000,"type":"transcription_resumed","slide":5}
+{"t":"2026-01-15T09:16:40.000Z","clock":"10:16:40","ms":1000000,"type":"slide_change","slide":6}
+{"t":"2026-01-15T09:18:26.000Z","clock":"10:18:26","ms":1106000,"type":"assistant_question","slide":6}
+{"t":"2026-01-15T09:18:27.000Z","clock":"10:18:27","ms":1107000,"type":"assistant_answer","slide":6}
+{"t":"2026-01-15T09:21:39.500Z","clock":"10:21:39","ms":1299500,"type":"assistant_question","slide":6}
+{"t":"2026-01-15T09:21:40.500Z","clock":"10:21:40","ms":1300500,"type":"assistant_answer","slide":6}
+{"t":"2026-01-15T09:24:00.000Z","clock":"10:24:00","ms":1440000,"type":"session_ended","slide":null}
+{"t":"2026-01-15T09:25:10.000Z","clock":"10:25:10","ms":1510000,"type":"audio_deleted","slide":null,"detail":"processed"}

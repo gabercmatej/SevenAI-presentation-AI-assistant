@@ -1,0 +1,24 @@
+{
+  "generatedBy": "scripts/build-timeline.js",
+  "generatedAt": "2026-01-10T09:30:00.000Z",
+  "source": "northstar-rewards-export.mp4",
+  "sourceSha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "sourceBytes": 41250000,
+  "video": "deck.mp4",
+  "screenshots": "page-screenshots",
+  "duration": 61.2,
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "canvaPages": 7,
+  "hiddenPages": [5],
+  "slides": [
+    { "n": 1, "canvaPage": 1, "enterAt": 0.0,   "holdAt": 1.83,  "holdUntil": 5.4,   "exitAt": 5.9,   "holdMatch": 0.0041 },
+    { "n": 2, "canvaPage": 2, "enterAt": 6.6,   "holdAt": 8.47,  "holdUntil": 13.2,  "exitAt": 13.73, "holdMatch": 0.0063 },
+    { "n": 3, "canvaPage": 3, "enterAt": 14.4,  "holdAt": 16.93, "holdUntil": 22.1,  "exitAt": 22.57, "holdMatch": 0.0052 },
+    { "n": 4, "canvaPage": 4, "enterAt": 23.2,  "holdAt": 24.1,  "holdUntil": 38.9,  "exitAt": 38.9,  "loopStart": 24.1, "loopEnd": 38.9, "holdMatch": 0.0348, "holdWhy": "loop" },
+    { "n": 5, "canvaPage": 6, "enterAt": 39.6,  "holdAt": 42.27, "holdUntil": 49.8,  "exitAt": 50.33, "holdMatch": 0.0077 },
+    { "n": 6, "canvaPage": 7, "enterAt": 51.0,  "holdAt": 53.53, "holdUntil": 60.43, "exitAt": 60.43, "holdMatch": 0.0035 }
+  ],
+  "videoSha256": "0000000000000000000000000000000000000000000000000000000000000000"
+}

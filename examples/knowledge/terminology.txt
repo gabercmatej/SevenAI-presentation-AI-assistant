@@ -1,0 +1,8 @@
+# Company-wide terms. One term per line; # starts a comment.
+# Merged with each presentation's own terminology.txt.
+SevenAI
+Harbor Lane Studio
+CRM
+loyalty
+iOS
+Android

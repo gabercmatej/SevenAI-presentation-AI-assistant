@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updatedAt": "2026-01-15T09:24:05.000Z",
+  "coveredUntilMs": 1298000,
+  "coveredUntil": "10:21:38",
+  "segmentsSeen": 19,
+  "updates": 7,
+  "decisions": [
+    { "text": "Pilot bo potekal v eni poslovalnici.", "at": "10:14:00", "slide": 5 }
+  ],
+  "commitments": [
+    { "text": "Do petka pošljemo predlog obsega za pilot.", "at": "10:19:40", "slide": 6, "owner": "seven" },
+    { "text": "Naročnik pošlje kontakt za tehnično integracijo.", "at": "10:20:50", "slide": 6, "owner": "client" }
+  ],
+  "openQuestions": [
+    { "text": "Cena aplikacije še ni znana; odvisna je od obsega.", "at": "10:18:20" }
+  ],
+  "clientInterests": [
+    { "text": "ponovni obiski kupcev", "weight": 2 },
+    { "text": "integracija z obstoječimi blagajnami", "weight": 2 },
+    { "text": "hitrost do prve nagrade", "weight": 1 }
+  ],
+  "objections": [
+    { "text": "Tedenski izzivi bi bili lahko za starejše kupce preveč zapleteni.", "at": "10:12:10" }
+  ],
+  "importantFacts": [
+    { "text": "Naročnik ima veliko enkratnih kupcev.", "at": "10:01:35" },
+    { "text": "Obstoječe blagajne ostanejo.", "at": "10:07:05" }
+  ]
+}

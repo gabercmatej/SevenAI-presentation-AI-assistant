@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "generatedAt": "2026-01-15T09:25:08.000Z",
+  "model": "claude-sonnet-5",
+  "summary": "Predstavili smo predlog aplikacije zvestobe Northstar Rewards. Naročnik je izpostavil, da ima veliko enkratnih kupcev, in se zanimal za integracijo z blagajnami ter hitrost do prve nagrade. Pri tedenskih izzivih je izrazil pomislek glede starejših kupcev. Dogovorili smo se za pilot v eni poslovalnici. Med 10:15 in 10:16 prepis ni bil v živo, zato je ta del dopolnjen iz posnetka.",
+  "decisions": [
+    { "text": "Pilot bo potekal v eni poslovalnici.", "at": "10:14:00", "slide": 5 }
+  ],
+  "nextSteps": [
+    { "text": "Pošljemo predlog obsega za pilot do petka.", "at": "10:19:40", "owner": "seven" },
+    { "text": "Naročnik pošlje kontakt za tehnično integracijo.", "at": "10:20:50", "owner": "client" },
+    { "text": "Pripraviti seznam poslovalnic za pilot.", "at": "10:15:00", "owner": "unknown" }
+  ],
+  "openQuestions": [
+    { "text": "Cena je odvisna od obsega in bo pripravljena po delavnici.", "at": "10:18:20" }
+  ],
+  "clientInterests": [
+    { "text": "Ponovni obiski kupcev.", "at": "10:01:35" },
+    { "text": "Integracija z obstoječimi blagajnami.", "at": "10:05:30" },
+    { "text": "Hitrost do prve nagrade.", "at": "10:08:40" }
+  ],
+  "objections": [
+    { "text": "Tedenski izzivi bi bili lahko za starejše kupce preveč zapleteni.", "at": "10:12:10" }
+  ],
+  "importantFacts": [
+    { "text": "Obstoječe blagajne ostanejo, potrebna je le integracija.", "at": "10:07:05" }
+  ],
+  "followUpSuggestions": [
+    { "text": "V predlog obsega vključiti poenostavljeno različico izzivov za starejše kupce." }
+  ],
+  "basedOn": { "segments": 19, "interactions": 3, "gaps": 1, "truncated": false }
+}

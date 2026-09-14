@@ -1,0 +1,26 @@
+{
+  "note": "Vprašanja in odgovori te predstavitve. Vnosi s \"scripted\": true se povejo dobesedno. Sintetična demo vsebina.",
+  "answers": [
+    {
+      "id": "cena",
+      "question": "Koliko stane aplikacija?",
+      "keywords": ["cena", "stane", "strošek", "ponudba", "koliko"],
+      "answer": "Natančno ceno pripravimo po skupni delavnici, ko uskladimo obseg funkcij in integracij. Danes vam lahko pokažem, kaj vse vključuje prvi pilot.",
+      "scripted": true
+    },
+    {
+      "id": "zacetek",
+      "question": "Kdaj bi lahko začeli s pilotom?",
+      "keywords": ["kdaj", "začetek", "pilot", "rok", "termin"],
+      "answer": "Datum pilota uskladimo na delavnici, ko je jasen obseg integracije. Prvi korak je delavnica z vašo ekipo.",
+      "scripted": true
+    },
+    {
+      "id": "brez-interneta",
+      "question": "Ali aplikacija deluje brez internetne povezave?",
+      "keywords": ["internet", "brez povezave", "offline", "signal"],
+      "answer": "QR koda je shranjena v aplikaciji, zato jo kupec lahko pokaže tudi brez povezave. Točke se pripišejo, ko se telefon znova poveže.",
+      "scripted": false
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "cloudCreated": true,
+  "cursors": { "transcript": 19, "events": 19, "interactions": 3 },
+  "bytes": { "transcript": 4498, "events": 1958, "interactions": 1142 },
+  "heads": {
+    "transcript": "<hash-of-first-512-bytes>",
+    "events": "<hash-of-first-512-bytes>",
+    "interactions": "<hash-of-first-512-bytes>"
+  },
+  "revisions": { "transcript": 2 },
+  "hashes": {
+    "session": "<hash-of-last-synced-session.json>",
+    "memory": "<hash-of-last-synced-memory.json>",
+    "summary": "<hash-of-last-synced-summary.json>"
+  },
+  "audio": { "uploaded": [], "failed": [] },
+  "lastAckAt": "2026-01-15T09:25:20.000Z",
+  "lastError": null,
+  "attempts": 0,
+  "nextAttemptAt": 0
+}

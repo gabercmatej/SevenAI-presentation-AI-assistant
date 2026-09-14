@@ -1,0 +1,25 @@
+{
+  "title": "Northstar Rewards",
+  "client": "Northstar Retail",
+  "subtitle": "Predlog mobilne aplikacije zvestobe",
+  "presenter": "Demo predstavitelj",
+  "date": "2026",
+  "createdAt": "2026-01-10T09:00:00.000Z",
+  "language": "sl",
+  "assistantName": "SevenAI",
+  "answerStyle": {
+    "targetSeconds": [10, 30],
+    "maxTokens": 400
+  },
+  "greeting": {
+    "enabled": false,
+    "delayMs": 5000
+  },
+  "settings": {
+    "mascotSizePx": 180,
+    "subtitlesEnabled": true,
+    "speakingSpeed": null
+  },
+  "order": 100,
+  "hidden": false
+}

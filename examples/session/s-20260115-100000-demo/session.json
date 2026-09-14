@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "s-20260115-100000-demo",
+  "presentationId": "northstar-rewards",
+  "presentationVersionId": "11111111-2222-4333-8444-555555555555",
+  "presentationName": "Northstar Rewards",
+  "name": "Northstar Rewards",
+  "startedAt": "2026-01-15T09:00:00.000Z",
+  "endedAt": "2026-01-15T09:24:00.000Z",
+  "durationMs": 1440000,
+  "recordingEnabled": false,
+  "recordingEverEnabled": true,
+  "status": "ready",
+  "summaryStatus": "ready",
+  "transcriptStatus": "final",
+  "audioRetention": "delete",
+  "audioStatus": "deleted",
+  "stats": {
+    "segments": 19,
+    "words": 199,
+    "events": 19,
+    "interactions": 3,
+    "recordedMs": 1440000,
+    "transcribedMs": 130300,
+    "audioBytes": 5760000,
+    "audioChunks": 16,
+    "assistantFiltered": 2,
+    "gaps": 1
+  },
+  "processingError": null
+}

@@ -1,0 +1,10 @@
+# Izrazje, značilno SAMO za to predstavitev.
+# Gre v prepoznavo govora in v sistemski prompt.
+# Globalni izrazi se dodajo samodejno.
+# Ena vrstica = en izraz.
+Northstar Retail
+Northstar Rewards
+QR koda
+push obvestila
+tedenski izzivi
+POS

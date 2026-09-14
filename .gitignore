@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Environment and secrets
+.env
+.env.*
+
+# Runtime data (never commit meeting or cache data)
+sessions/
+cache/
+work/
+logs/
+*.log
+
+# Build output
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db

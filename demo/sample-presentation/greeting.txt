@@ -1,0 +1,2 @@
+# Uvodni stavek te predstavitve. Vrstice, ki se začnejo z #, se ne izgovorijo.
+Pozdravljeni, sem SevenAI, digitalni asistent ekipe. Danes vam predstavljamo Northstar Rewards. Kadarkoli med predstavitvijo me lahko kaj vprašate.

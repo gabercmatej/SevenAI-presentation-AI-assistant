@@ -1,0 +1,62 @@
+{
+  "deck": "northstar-rewards",
+  "totalSlides": 6,
+  "note": "Synthetic demo deck for the fictional company Northstar Retail. Canva page 5 is hidden in the design and absent from the video, so live slide 5 maps to canvaPage 6.",
+  "slides": [
+    {
+      "n": 1,
+      "title": "Northstar Rewards",
+      "summary": "Naslovnica predloga. Predstavimo idejo mobilne aplikacije zvestobe za trgovsko verigo Northstar Retail.",
+      "points": ["Mobilna aplikacija zvestobe", "Predlog za Northstar Retail"],
+      "keywords": ["naslovnica", "uvod", "northstar", "rewards"],
+      "canvaPage": 1,
+      "mood": "settle"
+    },
+    {
+      "n": 2,
+      "title": "Izziv: kupci, ki se ne vrnejo",
+      "summary": "Velik del kupcev opravi en sam nakup in se ne vrne. Brez digitalnega stika trgovina ne ve, kdo so ti kupci, in jih ne more povabiti nazaj.",
+      "points": ["Veliko enkratnih nakupov", "Ni digitalnega stika s kupcem", "Ni podatkov o ponovnih obiskih"],
+      "keywords": ["izziv", "problem", "kupci", "ponovni obisk", "challenge"],
+      "canvaPage": 2,
+      "mood": "curious"
+    },
+    {
+      "n": 3,
+      "title": "Rešitev: aplikacija Northstar Rewards",
+      "summary": "Aplikacija kupcu ob vsakem nakupu pripiše točke prek osebne QR kode na blagajni. Nagrajuje ponovne obiske, ne le velikih nakupov, obstoječe blagajne pa ostanejo.",
+      "points": ["Osebna QR koda na blagajni", "Točke za ponovne obiske", "Brez menjave blagajn"],
+      "keywords": ["rešitev", "aplikacija", "qr koda", "točke", "blagajna", "solution"],
+      "canvaPage": 3,
+      "mood": "reveal"
+    },
+    {
+      "n": 4,
+      "title": "Prikaz zaslonov aplikacije",
+      "summary": "Zasloni aplikacije: stanje točk, osebna QR koda in seznam nagrad. Kupec vidi, koliko obiskov ga loči od naslednje nagrade.",
+      "points": ["Stanje točk", "QR koda", "Nagrade"],
+      "keywords": ["zasloni", "prikaz", "mockup", "screens", "aplikacija"],
+      "canvaPage": 4,
+      "continues": 3,
+      "mood": "curious"
+    },
+    {
+      "n": 5,
+      "title": "Tedenski izzivi in točke",
+      "summary": "Kratki tedenski izzivi, na primer tri obiski v enem tednu, prinesejo dodatne točke. Izzive je mogoče vklapljati postopoma in jih najprej preizkusiti v eni poslovalnici.",
+      "points": ["Tedenski izzivi", "Dodatne točke", "Postopna uvedba"],
+      "keywords": ["izzivi", "tedenski izzivi", "gamifikacija", "točke", "challenges"],
+      "canvaPage": 6,
+      "mood": "reveal"
+    },
+    {
+      "n": 6,
+      "title": "Časovnica in naslednji koraki",
+      "summary": "Predlagamo pilot v eni poslovalnici, pred tem pa skupno delavnico za uskladitev obsega in tehnične integracije.",
+      "points": ["Delavnica za obseg", "Pilot v eni poslovalnici", "Odločitev o širitvi po pilotu"],
+      "keywords": ["časovnica", "naslednji koraki", "pilot", "zaključek", "timeline"],
+      "canvaPage": 7,
+      "mood": "settle"
+    }
+  ]
+}
