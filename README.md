@@ -38,6 +38,16 @@ SevenAI is not a chatbot floating over PowerPoint. The deck, the assistant and t
 
 SevenAI is built and used by Sedem d.o.o., a Slovenian agency. **This repository is an engineering showcase, not a distribution channel.** The production source is private. The desktop client goes only to the company's authenticated team, and nothing here links to installers or build artifacts.
 
+## Screenshots
+
+All screenshots are **synthetic demo content** built around the fictional company "Northstar Retail". They contain no client material or production data.
+
+| | |
+|---|---|
+| ![Presentation catalogue](assets/screenshots/presentations.png) <br> **Presentation catalogue:** team decks with preview and meeting-recording toggle | ![Presentation mode](assets/screenshots/presentation-mode.png) <br> **Presentation mode:** fullscreen deck with the assistant in the corner |
+| ![Presentation settings](assets/screenshots/settings.png) <br> **Presentation settings:** greeting and scripted Q&A | ![Sessions](assets/screenshots/sessions.png) <br> **Sessions:** meeting record and structured summary |
+| ![Assistant states](assets/screenshots/assistant-states.png) <br> **Assistant states:** the SevenAI character while idle, listening, thinking and speaking | |
+
 ## Key capabilities
 
 **VOICE**
@@ -146,16 +156,6 @@ Details: [docs/knowledge-system.md](docs/knowledge-system.md). Synthetic example
 The desktop app hosts the same local runtime that runs in a browser during development: an Express server bound to loopback, plus the web frontend in a hardened Electron window. The cloud API issues provider leases, serves the team catalogue and version manifests, mints presigned download URLs for private object storage, and receives Session sync. Presentations are published as immutable versions. Members download them once, and a running meeting is never changed underneath the presenter.
 
 Details: [docs/desktop.md](docs/desktop.md), [docs/presentation-versioning.md](docs/presentation-versioning.md).
-
-## Screenshots
-
-All screenshots are **synthetic demo content** built around the fictional company "Northstar Retail". They contain no client material or production data.
-
-| | |
-|---|---|
-| ![Presentation catalogue](assets/screenshots/presentations.png) <br> **Presentation catalogue:** team decks with preview and meeting-recording toggle | ![Presentation mode](assets/screenshots/presentation-mode.png) <br> **Presentation mode:** fullscreen deck with the assistant in the corner |
-| ![Presentation settings](assets/screenshots/settings.png) <br> **Presentation settings:** greeting and scripted Q&A | ![Sessions](assets/screenshots/sessions.png) <br> **Sessions:** meeting record and structured summary |
-| ![Assistant states](assets/screenshots/assistant-states.png) <br> **Assistant states:** the SevenAI character while idle, listening, thinking and speaking | |
 
 ## Security
 
